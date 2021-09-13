@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\StudentPortal\StudentPortal.Core\bin\Debug\netcoreapp3.1\StudentPortal.Core.deps.json
+C:\Users\User\source\repos\StudentPortal\StudentPortal.Core\bin\Debug\netcoreapp3.1\StudentPortal.Core.dll
+C:\Users\User\source\repos\StudentPortal\StudentPortal.Core\bin\Debug\netcoreapp3.1\StudentPortal.Core.pdb
+C:\Users\User\source\repos\StudentPortal\StudentPortal.Core\bin\Debug\netcoreapp3.1\StudentPortal.Abstraction.dll
+C:\Users\User\source\repos\StudentPortal\StudentPortal.Core\bin\Debug\netcoreapp3.1\StudentPortal.Abstraction.pdb
+C:\Users\User\source\repos\StudentPortal\StudentPortal.Core\obj\Debug\netcoreapp3.1\StudentPortal.Core.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\StudentPortal\StudentPortal.Core\obj\Debug\netcoreapp3.1\StudentPortal.Core.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\StudentPortal\StudentPortal.Core\obj\Debug\netcoreapp3.1\StudentPortal.Core.AssemblyInfo.cs
+C:\Users\User\source\repos\StudentPortal\StudentPortal.Core\obj\Debug\netcoreapp3.1\StudentPortal.Core.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\StudentPortal\StudentPortal.Core\obj\Debug\netcoreapp3.1\StudentPortal.Core.csproj.CopyComplete
+C:\Users\User\source\repos\StudentPortal\StudentPortal.Core\obj\Debug\netcoreapp3.1\StudentPortal.Core.dll
+C:\Users\User\source\repos\StudentPortal\StudentPortal.Core\obj\Debug\netcoreapp3.1\StudentPortal.Core.pdb
